@@ -50,7 +50,7 @@ namespace GodChat
 
                 if (type == "senddata")
                 {
-                    string concat = '>' + newClient + ':' + str;
+                    string concat = '>' + GetIP() + ':' + str;
                     byte[] ba = asen.GetBytes(concat);
                     stm.Write(ba, 0, ba.Length);
                     byte[] bb = new byte[300];
@@ -63,7 +63,7 @@ namespace GodChat
                 }
                 else if (type == "connecserver")
                 {
-                    string concat = '#' + GetIP() + '?' + str;
+                    string concat = '#' + newClient + '?' + str;
                     byte[] ba = asen.GetBytes(concat);
                     stm.Write(ba, 0, ba.Length);
 
@@ -98,7 +98,7 @@ namespace GodChat
                 ASCIIEncoding asen = new ASCIIEncoding();
                 if (mess.Substring(0, 1) == "#") //มาเชื่อมเรา (server)
                 {
-                    s.Send(asen.GetBytes("okconnec"));
+                    s.Send(asen.GetBytes("#"+GetIP()+":"+"MyHost"));
                 }
                 if (mess.Substring(0, 1) == ">")
                 {

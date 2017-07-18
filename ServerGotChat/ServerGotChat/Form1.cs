@@ -52,14 +52,15 @@ namespace ServerGotChat
 
                 if (go.Substring(0, 1) == "#")
                 {
+                    checkGrid(grd);
                     txtDialog.AppendText("Have Client Connected!! : " + go + Environment.NewLine);
                     for(int i = 0; i < grdShow.Rows.Count-1; i++)
                     {
-                        if(grdShow.Rows[i].Cells[0].Value.ToString() != "out")
+                        //if(grdShow.Rows[i].Cells[0].Value.ToString() != "out")
                             //con.sendData(grdShow.Rows[i].Cells[0].Value.ToString(), go);
-                            con.connecServer(grdShow.Rows[i].Cells[0].Value.ToString(), grdShow.Rows[i].Cells[1].Value.ToString(),grd[0].Substring(1, grd[0].Length - 1));
+                            con.connecServer(grdShow.Rows[i].Cells[0].Value.ToString(), grd[1],grd[0].Substring(1, grd[0].Length - 1));
                     }
-                    checkGrid(grd);
+                    
                 }
                 else if(go.Substring(0,1) == ">")
                 {

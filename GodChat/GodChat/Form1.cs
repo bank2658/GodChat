@@ -157,7 +157,6 @@ namespace GodChat
             string temp = str[0].Substring(1, str[0].Length - 1);
             for (int i = 0; i < grdViewClient.RowCount - 1; i++)
             {
-
                 if (temp == grdViewClient.Rows[i].Cells[0].Value.ToString())
                 {
                     return true;
