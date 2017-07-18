@@ -28,17 +28,17 @@ namespace GodChat
         }
         #endregion
         #region Request
-        public string connecServer(string IpAdd, string nickname) //ขอเชื่อมเขา (Client)
+        public string connecServer(string IpAdd, string nickname, string newCl) //ขอเชื่อมเขา (Client)
         {
-            return ClientOpen(IpAdd, nickname, "connecserver");
+            return ClientOpen(IpAdd, nickname, "connecserver", newCl);
         }
         public string sendData(string IpAdd, string str) //ส่งข้อความไป (Client)
         {
-            return ClientOpen(IpAdd, str, "senddata");
+            return ClientOpen(IpAdd, str, "senddata","");
         }
         #endregion
         #region OpenServerClient
-        public string ClientOpen(string IpAdd, string str, string type)
+        public string ClientOpen(string IpAdd, string str, string type,string newClient)
         {
 
             try
@@ -50,7 +50,7 @@ namespace GodChat
 
                 if (type == "senddata")
                 {
-                    string concat = '>' + GetIP() + ':' + str;
+                    string concat = '>' + newClient + ':' + str;
                     byte[] ba = asen.GetBytes(concat);
                     stm.Write(ba, 0, ba.Length);
                     byte[] bb = new byte[300];

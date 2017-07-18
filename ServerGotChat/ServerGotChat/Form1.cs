@@ -57,7 +57,7 @@ namespace ServerGotChat
                     {
                         if(grdShow.Rows[i].Cells[0].Value.ToString() != "out")
                             //con.sendData(grdShow.Rows[i].Cells[0].Value.ToString(), go);
-                            con.connecServer(grdShow.Rows[i].Cells[0].Value.ToString(), grdShow.Rows[i].Cells[1].Value.ToString());
+                            con.connecServer(grdShow.Rows[i].Cells[0].Value.ToString(), grdShow.Rows[i].Cells[1].Value.ToString(),grd[0].Substring(1, grd[0].Length - 1));
                     }
                     checkGrid(grd);
                 }

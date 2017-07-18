@@ -11,3 +11,12 @@ D:\C#\ServerGotChat\ServerGotChat\ServerGotChat\obj\Debug\ServerGotChat.pdb
 D:\C#\UpdateGodChat\ServerGotChat\ServerGotChat\ServerGotChat\bin\Debug\ServerGotChat.exe.config
 D:\C#\UpdateGodChat\ServerGotChat\ServerGotChat\ServerGotChat\obj\Debug\ServerGotChat.exe
 D:\C#\UpdateGodChat\ServerGotChat\ServerGotChat\ServerGotChat\obj\Debug\ServerGotChat.pdb
+D:\C#\UpdateGodChat\ServerGotChat\ServerGotChat\bin\Debug\ServerGotChat.exe.config
+D:\C#\UpdateGodChat\ServerGotChat\ServerGotChat\obj\Debug\ServerGotChat.exe
+D:\C#\UpdateGodChat\ServerGotChat\ServerGotChat\obj\Debug\ServerGotChat.pdb
+D:\C#\UpdateGodChat\ServerGotChat\ServerGotChat\bin\Debug\ServerGotChat.exe
+D:\C#\UpdateGodChat\ServerGotChat\ServerGotChat\bin\Debug\ServerGotChat.pdb
+D:\C#\UpdateGodChat\ServerGotChat\ServerGotChat\obj\Debug\ServerGotChat.csprojResolveAssemblyReference.cache
+D:\C#\UpdateGodChat\ServerGotChat\ServerGotChat\obj\Debug\ServerGotChat.ServerGotChat.resources
+D:\C#\UpdateGodChat\ServerGotChat\ServerGotChat\obj\Debug\ServerGotChat.Properties.Resources.resources
+D:\C#\UpdateGodChat\ServerGotChat\ServerGotChat\obj\Debug\ServerGotChat.csproj.GenerateResource.Cache
