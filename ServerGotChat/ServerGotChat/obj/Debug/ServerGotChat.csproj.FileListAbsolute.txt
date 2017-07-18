@@ -1,0 +1,13 @@
+C:\Users\sitthiporn_t\AppData\Local\Temporary Projects\ServerGotChat\bin\Debug\ServerGotChat.exe.config
+D:\C#\ServerGotChat\ServerGotChat\ServerGotChat\bin\Debug\ServerGotChat.exe.config
+D:\C#\ServerGotChat\ServerGotChat\ServerGotChat\obj\Debug\ServerGotChat.csprojResolveAssemblyReference.cache
+D:\C#\ServerGotChat\ServerGotChat\ServerGotChat\obj\Debug\ServerGotChat.ServerGotChat.resources
+D:\C#\ServerGotChat\ServerGotChat\ServerGotChat\obj\Debug\ServerGotChat.Properties.Resources.resources
+D:\C#\ServerGotChat\ServerGotChat\ServerGotChat\obj\Debug\ServerGotChat.csproj.GenerateResource.Cache
+D:\C#\ServerGotChat\ServerGotChat\ServerGotChat\bin\Debug\ServerGotChat.exe
+D:\C#\ServerGotChat\ServerGotChat\ServerGotChat\bin\Debug\ServerGotChat.pdb
+D:\C#\ServerGotChat\ServerGotChat\ServerGotChat\obj\Debug\ServerGotChat.exe
+D:\C#\ServerGotChat\ServerGotChat\ServerGotChat\obj\Debug\ServerGotChat.pdb
+D:\C#\UpdateGodChat\ServerGotChat\ServerGotChat\ServerGotChat\bin\Debug\ServerGotChat.exe.config
+D:\C#\UpdateGodChat\ServerGotChat\ServerGotChat\ServerGotChat\obj\Debug\ServerGotChat.exe
+D:\C#\UpdateGodChat\ServerGotChat\ServerGotChat\ServerGotChat\obj\Debug\ServerGotChat.pdb

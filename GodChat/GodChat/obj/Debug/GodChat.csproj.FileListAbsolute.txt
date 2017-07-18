@@ -1,0 +1,45 @@
+C:\Users\sitthiporn_t\AppData\Local\Temporary Projects\GodChat\bin\Debug\GodChat.exe.config
+C:\Users\sitthiporn_t\AppData\Local\Temporary Projects\GodChat\bin\Debug\GodChat.exe
+C:\Users\sitthiporn_t\AppData\Local\Temporary Projects\GodChat\bin\Debug\GodChat.pdb
+C:\Users\sitthiporn_t\AppData\Local\Temporary Projects\GodChat\obj\Debug\GodChat.csprojResolveAssemblyReference.cache
+C:\Users\sitthiporn_t\AppData\Local\Temporary Projects\GodChat\obj\Debug\GodChat.Form1.resources
+C:\Users\sitthiporn_t\AppData\Local\Temporary Projects\GodChat\obj\Debug\GodChat.Properties.Resources.resources
+C:\Users\sitthiporn_t\AppData\Local\Temporary Projects\GodChat\obj\Debug\GodChat.csproj.GenerateResource.Cache
+C:\Users\sitthiporn_t\AppData\Local\Temporary Projects\GodChat\obj\Debug\GodChat.exe
+C:\Users\sitthiporn_t\AppData\Local\Temporary Projects\GodChat\obj\Debug\GodChat.pdb
+D:\C#\GodChat\GodChat\bin\Debug\GodChat.exe.config
+D:\C#\GodChat\GodChat\bin\Debug\GodChat.exe
+D:\C#\GodChat\GodChat\bin\Debug\GodChat.pdb
+D:\C#\GodChat\GodChat\obj\Debug\GodChat.csprojResolveAssemblyReference.cache
+D:\C#\GodChat\GodChat\obj\Debug\GodChat.Form1.resources
+D:\C#\GodChat\GodChat\obj\Debug\GodChat.Properties.Resources.resources
+D:\C#\GodChat\GodChat\obj\Debug\GodChat.csproj.GenerateResource.Cache
+D:\C#\GodChat\GodChat\obj\Debug\GodChat.exe
+D:\C#\GodChat\GodChat\obj\Debug\GodChat.pdb
+G:\testChaT\GodChat\GodChat\bin\Debug\GodChat.exe.config
+G:\testChaT\GodChat\GodChat\obj\Debug\GodChat.exe
+G:\testChaT\GodChat\GodChat\obj\Debug\GodChat.pdb
+G:\testChaT\GodChat\GodChat\bin\Debug\GodChat.exe
+G:\testChaT\GodChat\GodChat\bin\Debug\GodChat.pdb
+G:\testChaT\GodChat\GodChat\obj\Debug\GodChat.csprojResolveAssemblyReference.cache
+G:\testChaT\GodChat\GodChat\obj\Debug\GodChat.Form1.resources
+G:\testChaT\GodChat\GodChat\obj\Debug\GodChat.Properties.Resources.resources
+G:\testChaT\GodChat\GodChat\obj\Debug\GodChat.csproj.GenerateResource.Cache
+D:\testChaT\GodChat\GodChat\bin\Debug\GodChat.exe.config
+D:\testChaT\GodChat\GodChat\bin\Debug\GodChat.exe
+D:\testChaT\GodChat\GodChat\bin\Debug\GodChat.pdb
+D:\testChaT\GodChat\GodChat\obj\Debug\GodChat.Form1.resources
+D:\testChaT\GodChat\GodChat\obj\Debug\GodChat.Properties.Resources.resources
+D:\testChaT\GodChat\GodChat\obj\Debug\GodChat.csproj.GenerateResource.Cache
+D:\testChaT\GodChat\GodChat\obj\Debug\GodChat.exe
+D:\testChaT\GodChat\GodChat\obj\Debug\GodChat.pdb
+D:\C#\UpdateGodChat\GodChat\GodChat\bin\Debug\GodChat.exe.config
+D:\C#\UpdateGodChat\GodChat\GodChat\bin\Debug\GodChat.exe
+D:\C#\UpdateGodChat\GodChat\GodChat\bin\Debug\GodChat.pdb
+D:\C#\UpdateGodChat\GodChat\GodChat\obj\Debug\GodChat.Form1.resources
+D:\C#\UpdateGodChat\GodChat\GodChat\obj\Debug\GodChat.Properties.Resources.resources
+D:\C#\UpdateGodChat\GodChat\GodChat\obj\Debug\GodChat.csproj.GenerateResource.Cache
+D:\C#\UpdateGodChat\GodChat\GodChat\obj\Debug\GodChat.exe
+D:\C#\UpdateGodChat\GodChat\GodChat\obj\Debug\GodChat.pdb
+D:\C#\UpdateGodChat\GodChat\GodChat\obj\Debug\GodChat.csprojResolveAssemblyReference.cache
+D:\C#\UpdateGodChat\GodChat\GodChat\obj\Debug\GodChat.GetNickName.resources
